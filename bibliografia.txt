@@ -1,1 +1,1 @@
-Ryan Hodson. Ry's Git Tutorial. Smashwords (2014)
+- Chacon, S. and Straub, B. Pro Git. Apress.
